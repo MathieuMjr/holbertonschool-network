@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# opening a listening port
+nc -l 98
